@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -165,6 +167,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/vrushti225/LeetCode-Questions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Binary Indexed Tree
 |  |
