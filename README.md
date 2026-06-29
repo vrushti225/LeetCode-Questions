@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0962-maximum-width-ramp](https://github.com/vrushti225/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
@@ -139,13 +140,16 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
