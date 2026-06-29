@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/vrushti225/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/vrushti225/LeetCode-Questions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Binary Indexed Tree
 |  |
