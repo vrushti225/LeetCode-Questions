@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/vrushti225/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vrushti225/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0962-maximum-width-ramp](https://github.com/vrushti225/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vrushti225/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vrushti225/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrushti225/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vrushti225/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -70,6 +71,7 @@
 | [0410-split-array-largest-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/vrushti225/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vrushti225/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vrushti225/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vrushti225/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrushti225/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vrushti225/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
