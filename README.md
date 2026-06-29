@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/vrushti225/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrushti225/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vrushti225/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrushti225/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
