@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/vrushti225/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0962-maximum-width-ramp](https://github.com/vrushti225/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0962-maximum-width-ramp](https://github.com/vrushti225/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vrushti225/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -52,9 +54,15 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/vrushti225/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/vrushti225/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
