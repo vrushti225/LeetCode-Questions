@@ -13,6 +13,7 @@
 | [0220-contains-duplicate-iii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vrushti225/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0962-maximum-width-ramp](https://github.com/vrushti225/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vrushti225/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrushti225/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vrushti225/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vrushti225/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vrushti225/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrushti225/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vrushti225/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vrushti225/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
