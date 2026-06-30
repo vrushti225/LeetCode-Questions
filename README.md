@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/vrushti225/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vrushti225/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/vrushti225/LeetCode-Questions/tree/master/0135-candy) |
 | [0220-contains-duplicate-iii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/vrushti225/LeetCode-Questions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1402-reducing-dishes](https://github.com/vrushti225/LeetCode-Questions/tree/master/1402-reducing-dishes) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/vrushti225/LeetCode-Questions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
