@@ -129,6 +129,7 @@
 | [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vrushti225/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/vrushti225/LeetCode-Questions/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
