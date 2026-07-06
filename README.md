@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/vrushti225/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/vrushti225/LeetCode-Questions/tree/master/0135-candy) |
+| [0217-contains-duplicate](https://github.com/vrushti225/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/vrushti225/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -59,6 +61,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/vrushti225/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/vrushti225/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
