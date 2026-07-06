@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/vrushti225/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vrushti225/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/vrushti225/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/vrushti225/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vrushti225/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vrushti225/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -62,6 +63,7 @@
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vrushti225/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1402-reducing-dishes](https://github.com/vrushti225/LeetCode-Questions/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vrushti225/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Linked List
@@ -114,6 +116,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -138,10 +141,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -179,4 +184,16 @@
 |  |
 | ------- |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/vrushti225/LeetCode-Questions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
