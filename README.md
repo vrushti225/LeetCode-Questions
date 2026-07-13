@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vrushti225/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/vrushti225/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/vrushti225/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vrushti225/LeetCode-Questions/tree/master/0066-plus-one) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/vrushti225/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/vrushti225/LeetCode-Questions/tree/master/0704-binary-search) |
