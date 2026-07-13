@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/vrushti225/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vrushti225/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vrushti225/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/vrushti225/LeetCode-Questions/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/vrushti225/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vrushti225/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1402-reducing-dishes](https://github.com/vrushti225/LeetCode-Questions/tree/master/1402-reducing-dishes) |
 ## Sliding Window
