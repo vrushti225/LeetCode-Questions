@@ -32,6 +32,7 @@
 | [1402-reducing-dishes](https://github.com/vrushti225/LeetCode-Questions/tree/master/1402-reducing-dishes) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrushti225/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vrushti225/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1710-maximum-units-on-a-truck](https://github.com/vrushti225/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0135-candy](https://github.com/vrushti225/LeetCode-Questions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1402-reducing-dishes](https://github.com/vrushti225/LeetCode-Questions/tree/master/1402-reducing-dishes) |
+| [1710-maximum-units-on-a-truck](https://github.com/vrushti225/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/vrushti225/LeetCode-Questions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@
 | [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1402-reducing-dishes](https://github.com/vrushti225/LeetCode-Questions/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vrushti225/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1710-maximum-units-on-a-truck](https://github.com/vrushti225/LeetCode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
