@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vrushti225/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/vrushti225/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vrushti225/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vrushti225/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/vrushti225/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/vrushti225/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/vrushti225/LeetCode-Questions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vrushti225/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vrushti225/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
