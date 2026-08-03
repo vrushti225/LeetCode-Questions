@@ -147,12 +147,14 @@
 | [0009-palindrome-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vrushti225/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vrushti225/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/vrushti225/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/vrushti225/LeetCode-Questions/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vrushti225/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/vrushti225/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -198,6 +200,7 @@
 | [0014-longest-common-prefix](https://github.com/vrushti225/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vrushti225/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vrushti225/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vrushti225/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/vrushti225/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/vrushti225/LeetCode-Questions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Binary Indexed Tree
@@ -219,6 +222,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vrushti225/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/vrushti225/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
