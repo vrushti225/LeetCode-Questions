@@ -104,6 +104,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vrushti225/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vrushti225/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/vrushti225/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vrushti225/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vrushti225/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vrushti225/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/vrushti225/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/vrushti225/LeetCode-Questions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
