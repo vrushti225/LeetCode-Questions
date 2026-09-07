@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/vrushti225/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vrushti225/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vrushti225/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vrushti225/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vrushti225/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vrushti225/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vrushti225/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -197,6 +199,7 @@
 | [0100-same-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -213,6 +216,7 @@
 | [0100-same-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vrushti225/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## String
 |  |
@@ -263,4 +267,8 @@
 | [0100-same-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vrushti225/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
